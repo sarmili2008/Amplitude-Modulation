@@ -103,6 +103,8 @@ Output Waveform
 
 
 TABULATION:
+
+
 wsa<img width="870" height="546" alt="image" src="https://github.com/user-attachments/assets/c66e1b0e-6e89-414e-9940-f401d6aea5fd" />
 
 
