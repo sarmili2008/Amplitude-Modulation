@@ -94,7 +94,9 @@ subplot(3,1,3);
 plot(t,eam);
 ```
 Output Waveform
-<img width="606" height="478" alt="image" src="https://github.com/user-attachments/assets/4ab2bbde-2d6a-4fd0-bd8e-999af2bd5040" />
+
+
+<img width="610" height="478" alt="image" src="https://github.com/user-attachments/assets/fae6dc11-1017-4054-aefd-765dbb3c359d" />
 
 
 
